@@ -1,0 +1,37 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url('../imagens/nuvens.jpg');
+	background-size: cover;
+	width: 100%;
+}
+form{
+	background-color: white;
+	width: 500px;
+	text-align: left;
+	border-radius: 30px;	
+
+}
+input{
+	border-radius: 20px;
+}
+label{
+	font-weight: bold;
+	color: black;
+}
+#title{
+	font-size: 16px;	
+	margin-left: 200px;
+}
+#buton{
+	margin-left: 165px;
+}
+#error1,#error2 {
+	background-color: #a55;
+	font-size: 15px;
+	font-weight: bold;
+	color:black;
+	border-radius:5px;
+}
